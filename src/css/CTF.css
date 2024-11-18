@@ -1,0 +1,93 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #2E2E2E;
+    color: #FAFAFA;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+    color: #1A237E;
+  }
+  
+  a {
+    color: #81D4FA;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  a:hover {
+    color: #FF5722;
+  }
+  
+  button {
+    background-color: #880E4F;
+    color: #FAFAFA;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #FF5722;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .card {
+    background-color: #1A237E;
+    color: #FAFAFA;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #880E4F;
+    padding: 10px;
+  }
+  nav a {
+    color: #FAFAFA;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  nav a:hover {
+    color: #FF5722;
+  }
+  .container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+  }
+  .ctf-card {
+    background-color: #1A237E;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .ctf-card h2 {
+    color: #81D4FA;
+  }
+  .ctf-card p {
+    color: #FAFAFA;
+  }
+  .ctf-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  .ctf-card ul li {
+    padding: 5px 0;
+  }

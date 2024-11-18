@@ -1,0 +1,124 @@
+{
+    "investigation": {
+      "title": "Enquête sur les pratiques de manipulation, abus de pouvoir, et maltraitance institutionnelle",
+      "sections": [
+        {
+          "title": "Manipulation des Éléments de Langage et Confusion Intentionnelle",
+          "content": "L'utilisation de termes ambigus comme 'Ensemble' et 'Majorité' dans les noms de partis politiques crée une confusion intentionnelle, nuisant à la clarté des informations transmises aux citoyens et compromettant la transparence démocratique.",
+          "details": {
+            "examples": [
+              {
+                "partyName": "Ensemble ! (Majorité Présidentielle)",
+                "description": "Parti utilisant le terme 'majorité' sans majorité réelle dans des secteurs clés (justice, santé, agriculture, etc.), créant une perception trompeuse de consensus public.",
+                "source": "https://liste.cnccfp.fr/liste_partis.php"
+              },
+              {
+                "partyName": "Les Républicains Ensemble dans la France",
+                "description": "Nom qui combine 'Les Républicains' et 'Ensemble', augmentant la confusion pour les électeurs.",
+                "source": "https://liste.cnccfp.fr/liste_partis.php"
+              }
+            ]
+          }
+        },
+        {
+          "title": "Fraude Électorale et Escroquerie à la Finance",
+          "content": "La multiplication de partis politiques avec des noms similaires est soupçonnée de dissimuler des pratiques de fraude électorale et de financement croisé.",
+          "legalReferences": [
+            {
+              "article": "313-1",
+              "description": "Définit l'escroquerie comme l'usage de manœuvres frauduleuses pour tromper une personne et obtenir un avantage injustifié."
+            },
+            {
+              "article": "341-1",
+              "description": "Relatif aux abus de biens sociaux et à la gestion frauduleuse au sein des organisations."
+            },
+            {
+              "article": "226",
+              "description": "Encadre l'atteinte aux droits des personnes, notamment concernant la manipulation du consentement."
+            }
+          ],
+          "examples": [
+            {
+              "description": "Détournement potentiel des votes en multipliant les entités politiques avec des noms semblables, visant à confondre l'électorat.",
+              "source": "https://liste.cnccfp.fr/liste_partis.php"
+            },
+            {
+              "description": "Utilisation des ressources publiques par des partis sans réelle implication politique, ce qui constitue une forme d'escroquerie à la finance publique.",
+              "source": "https://www.cnccfp.fr"
+            }
+          ]
+        },
+        {
+          "title": "Répression Institutionnelle et Maltraitance des Citoyens",
+          "content": "Les citoyens subissent une répression institutionnelle croissante à travers des restrictions financières et policières lorsqu'ils contestent ces pratiques.",
+          "legalReferences": [
+            {
+              "article": "226",
+              "description": "Protège les droits individuels et régule les atteintes au consentement."
+            },
+            {
+              "article": "49.3",
+              "description": "Permet au gouvernement de faire passer une loi sans vote, limitant ainsi le rôle du parlement."
+            }
+          ],
+          "examples": [
+            {
+              "description": "Utilisation de forces de l’ordre pour réprimer les manifestations et limiter la liberté d'expression.",
+              "source": "https://www.cnccfp.fr"
+            },
+            {
+              "description": "Sanctions financières injustifiées contre des opposants et des lanceurs d’alerte.",
+              "source": "https://www.cnccfp.fr"
+            }
+          ]
+        },
+        {
+          "title": "Corruption des Médias et Manipulation de l'Information",
+          "content": "Des affiliations médiatiques non transparentes pourraient manipuler l’information publique pour présenter les actions du gouvernement sous un jour favorable.",
+          "examples": [
+            {
+              "description": "Diffusion de contenus pro-majorité par des chaînes comme BFMTV, limitant la diversité des perspectives et renforçant une narrative unique.",
+              "source": "https://archive.org"
+            }
+          ]
+        },
+        {
+          "title": "Usage Abusif de l'Article 49.3",
+          "content": "L’utilisation répétée de l’article 49.3 renforce la concentration du pouvoir exécutif et limite le débat parlementaire.",
+          "legalReferences": [
+            {
+              "article": "49.3",
+              "description": "Permet au gouvernement de faire passer une loi sans vote, empêchant le débat parlementaire et limitant la participation démocratique."
+            }
+          ],
+          "examples": [
+            {
+              "description": "Adoption de lois sans vote parlementaire, empêchant la représentation des citoyens dans les débats législatifs.",
+              "source": "https://www.cnccfp.fr"
+            }
+          ]
+        }
+      ],
+      "recommendations": [
+        {
+          "recommendation": "Appel à une Enquête Indépendante",
+          "details": "Requête pour une enquête indépendante sur les pratiques financières et politiques des partis mentionnés.",
+          "source": "https://www.cnccfp.fr"
+        },
+        {
+          "recommendation": "Réforme Législative",
+          "details": "Amendements aux articles du Code pénal et de la Constitution pour renforcer la régulation contre la fraude financière et le contournement des processus démocratiques.",
+          "legalReferences": [
+            "Articles 313 à 341 du Code pénal",
+            "Article 49.3 de la Constitution française"
+          ]
+        },
+        {
+          "recommendation": "Protection des Victimes de Maltraitance Institutionnelle",
+          "details": "Création d’organismes indépendants pour protéger les citoyens contre les abus financiers et la répression.",
+          "source": "https://www.cnccfp.fr"
+        }
+      ]
+    }
+  }
+  

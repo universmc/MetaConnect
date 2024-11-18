@@ -1,0 +1,8 @@
+{
+  "systemGuideline": "Guideline for the task \"Analyze customer feedback\": Ensure clarity and depth.",
+  "initialPrompt": "Analyzing task: Analyze customer feedback.",
+  "refinedPrompt": "Reflect on the response: \"Analyzing task: Analyze customer feedback.\". Identify ambiguities and suggest improvements.",
+  "finalExecution": "Execute and respond: \"Reflect on the response: \"Analyzing task: Analyze customer feedback.\". Identify ambiguities and suggest improvements.\".",
+  "evaluation": "Evaluate the response: \"Execute and respond: \"Reflect on the response: \"Analyzing task: Analyze customer feedback.\". Identify ambiguities and suggest improvements.\".\". Check for quality and coherence.",
+  "improvementSuggestion": "Suggest improvements for clarity and depth of information."
+}

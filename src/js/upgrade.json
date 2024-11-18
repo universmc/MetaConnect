@@ -1,0 +1,53 @@
+{
+    "tasks": [
+      {
+        "title": "Définir les Objectifs de l'Enquête",
+        "phase": "Phase 1$",
+        "status": "En cours",
+        "due_date": "2024-10-15",
+        "responsible": "Martin",
+        "dependencies": []
+      },
+      {
+        "title": "Initialiser l'Assistant CLAUDE -ai Martin",
+        "phase": "Phase 1$",
+        "status": "À faire",
+        "due_date": "2024-10-20",
+        "responsible": "Mickael",
+        "dependencies": ["Définir les Objectifs de l'Enquête"]
+      },
+      {
+        "title": "Collecte d'Informations sur GitHub",
+        "phase": "Phase 2$",
+        "status": "À faire",
+        "due_date": "2024-11-01",
+        "responsible": "Claude -ai Martin",
+        "dependencies": ["Initialiser l'AssistantCLAUDE -ai Martin"]
+      },
+      {
+        "title": "Analyse des Transactions Blockchain",
+        "phase": "Phase 2$",
+        "status": "À faire",
+        "due_date": "2024-11-15",
+        "responsible": "Claude -ai Martin",
+        "dependencies": ["Collecte d'Informations sur GitHub"]
+      },
+      {
+        "title": "Génération du Rapport Markdown",
+        "phase": "Phase 3$",
+        "status": "À faire",
+        "due_date": "2024-11-20",
+        "responsible": "Claude -ai Martin",
+        "dependencies": ["Analyse des Transactions Blockchain"]
+      },
+      {
+        "title": "Automatisation des Vérifications Hebdomadaires",
+        "phase": "Phase 4$",
+        "status": "À faire",
+        "due_date": "2024-12-01",
+        "responsible": "Mickael",
+        "dependencies": ["Génération du Rapport Markdown"]
+      }
+    ]
+  }
+  

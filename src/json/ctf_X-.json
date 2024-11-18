@@ -1,0 +1,73 @@
+{
+    "menu": {
+    "title": "Liste des CTF",
+    "items": ["CTF 1", "CTF 2", "CTF 3", "CTF 4", "CTF 5", "CTF 6", "CTF 7", "CTF 8", "CTF 9", "CTF 10"]
+    },
+    "CTF": [
+    {
+    "id": "1",
+    "CDO": " titre : [CTF]_boot_X-",
+    "name": "Prévention et lutte contre la fraude fiscale",
+    "description": "Identifier les cas potentiels de fraude fiscale et proposer des solutions.",
+    "startDate": "2018-03-01",
+    "endDate": "2024-12-31"
+    },
+    {
+    "id": "2",
+    "CDO": " titre : [CTF]_49-3",
+    "name": "Accès à l'éducation pour tous",
+    "description": "Mettre en place un curriculum numérique universel accessible à tous.",
+    "startDate": "2016-04-01",
+    "endDate": "2024-12-31"
+    },
+    {
+      "id": "3",
+      "CDO": " titre : [CTF]_R2D2",
+      "name": "adopte1radar.com",
+      "description": "Mettre en place un curriculum numérique universel accessible à tous exemple Alicia.",
+      "startDate": "2018-04-01",
+      "endDate": "2024-12-31"
+      },
+      {
+      "id": "4",
+      "CDO": " titre : [CTF]_EMP",
+      "name": "Accès à l'IA pour Nous 4",
+      "description": "retraitre : reforme du code du travail",
+      "startDate": "2022-04-01",
+      "endDate": "2027-12-31"
+      },
+      {
+      "id": "5",
+      "CDO": " titre :[CTF]_35H BellaCiao",
+      "name": "command printf(table<th/>)",
+      "description": "Mettre en place un curriculum numérique universel accessible à tous.",
+      "startDate": "2018-04-01",
+      "endDate": "2030-12-31"
+      },
+      {
+      "id": "6",
+      "CDO": " titre : [CTF]_Etat Absent",
+      "name": "Accès à Internet, par satellite Defcone_ONE",
+      "description": "Mettre en place un curriculum numérique universel accessible à tous.",
+      "startDate": "2017-04-01",
+      "endDate": "2027-12-31"
+      },
+      {
+        "id": "7",
+        "CDO": " titre : [CTF]_Break_in_bad",
+        "name": "Accès la case départ application democratique",
+        "description": "Mettre en place un curriculum numérique universel accessible à tous.",
+        "startDate": "2017-04-01",
+        "endDate": "2025-12-31"
+        },
+        {
+          "id": "8",
+          "CDO": " titre : [CTF]_Claude",
+          "name": "Accès aux principe Antropics du projet RIC de Claude Martin",
+          "description": "Mettre en place un curriculum numérique universel accessible à tous.",
+          "startDate": "2023-04-01",
+          "endDate": "2030-12-31"
+          }
+      ]
+    }
+    

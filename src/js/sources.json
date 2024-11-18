@@ -1,0 +1,14 @@
+{
+    "sources": [
+      {
+        "nom": "Archive.org",
+        "url": "https://archive.org/advancedsearch.php",
+        "parametres": {
+          "q": "",
+          "output": "json"
+        },
+        "active": true
+      }
+    ]
+  }
+  
